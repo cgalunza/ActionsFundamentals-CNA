@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals
+# Testing PR trigger
 
 Repo for the `GitHub Actions Fundamentals` training.
 
