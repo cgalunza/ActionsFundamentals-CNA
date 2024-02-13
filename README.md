@@ -1,4 +1,5 @@
 # GitHub Actions Fundamentals
+# Test push
 
 Repo for the `GitHub Actions Fundamentals` training.
 
